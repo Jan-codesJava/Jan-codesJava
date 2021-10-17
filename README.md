@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jan-codesJava
+- 👋 Hi, I’m @Jan-codesJava. I am a Software Development Engineer in Testing
 - 👀 I’m interested in Software Testing using Selenium, Jenkins, Java, Cucumber etc.
 - 💞️ I’m looking to collaborate on automation testing projects
 - 📫 How to reach me janekyrgyz@gmail.com
