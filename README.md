@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jan-codesJava
-- 👀 I’m interested in in Software Testing using Selenium, Jenkins, Java, Cucumber etc.
+- 👀 I’m interested in Software Testing using Selenium, Jenkins, Java, Cucumber etc.
 - 💞️ I’m looking to collaborate on automation testing projects
 - 📫 How to reach me janekyrgyz@gmail.com
 
